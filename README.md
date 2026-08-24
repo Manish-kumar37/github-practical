@@ -8,3 +8,7 @@ This project demonstrates Git and GitHub version control workflow.
 - Branching
 - Commits
 - GitHub collaboration
+
+## Collaboration
+
+This change demonstrates the GitHub Pull Request workflow.
